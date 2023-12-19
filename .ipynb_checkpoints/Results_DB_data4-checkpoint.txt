@@ -1,0 +1,11 @@
+Estimated number of clusters: 2
+Estimated number of noise points: 132738
+eps=4.3, min_samples=180
+
+Estimated number of clusters: 2
+Estimated number of noise points: 137628
+eps=4.3, min_samples=188
+
+Estimated number of clusters: 2
+Estimated number of noise points: 136929
+eps=4.3, min_samples=187

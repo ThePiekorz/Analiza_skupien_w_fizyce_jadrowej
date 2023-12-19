@@ -1,0 +1,36 @@
+Estimated number of clusters: 3
+Estimated number of noise points: 41220
+eps=4, min_samples=134
+
+Estimated number of clusters: 3
+Estimated number of noise points: 36018
+eps=4.2, min_samples=145
+
+Estimated number of clusters: 3
+Estimated number of noise points: 37563
+eps=4.2, min_samples=150
+
+Estimated number of clusters: 3
+Estimated number of noise points: 37003
+eps=4.2, min_samples=148
+
+-----------------------------------------------------------------
+
+Estimated number of clusters: 2  <--- XD
+Estimated number of noise points: 32604
+eps=4.3, min_samples=146
+
+Estimated number of clusters: 2
+Estimated number of noise points: 32832
+eps=4.3, min_samples=147
+
+Estimated number of clusters: 2
+Estimated number of noise points: 33200
+eps=4.3, min_samples=148
+
+Estimated number of clusters: 2
+Estimated number of noise points: 32390
+eps=4.3, min_samples=145
+
+
+#Tutaj lekko zachodzi skrzydło
