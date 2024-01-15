@@ -1,1 +1,3 @@
 # Praca_Inz
+
+Techniki identyfikacji cząstek są podstawowymi narzędziami w eksperymentach fizyki jądrowej. Rozróżnianie cząstek lub jąder powstałych w wyniku oddziaływań jądrowych pozwala lepiej zrozumieć mechanizmy fizyki jądrowej. Bardzo często identyfikację produktów reakcji przeprowadza się mając do dyspozycji sygnały z dwóch detektorów, ułożonych w stos, działających w koincydencji. Efektem tego jest dwuwymiarowy plot, na którym poszczególne izotopy tworzą różnego rodzaje skupienia. W pracy inżynierskiej zostaną przetestowane dostępne algorytmy do analizy skupień w celu wyselekcjonowania tego najbardziej nadającego się do identyfikacji produktów reakcji. Dane pochodzić będą z kilku eksperymentów fizyki jądrowej i cząstek.
