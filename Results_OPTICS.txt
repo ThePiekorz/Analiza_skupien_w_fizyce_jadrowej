@@ -1,0 +1,13 @@
+OPTICS_DATA_1
+
+Estimated number of clusters: 4
+Estimated number of noise points: 2540
+Max_eps: 24, min_samples: 500
+
+Estimated number of clusters: 5
+Estimated number of noise points: 9788
+Max_eps: 25, min_samples: 500
+
+Estimated number of clusters: 3
+Estimated number of noise points: 12616
+Max_eps: 25, min_samples: 600

@@ -33,4 +33,4 @@ Estimated number of noise points: 32390
 eps=4.3, min_samples=145
 
 
-#Tutaj lekko zachodzi skrzydło
+#Tutaj lekko zachodzi skrzydło, kwestia plotowania i guess
