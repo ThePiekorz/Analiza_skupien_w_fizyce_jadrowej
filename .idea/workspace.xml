@@ -6,15 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="1e2d439f-6d6a-4a2a-ada8-e3f116c46e34" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Praca_Inz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Praca_Inz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/KPiekorz-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/KPiekorz-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3N_forces_noise_data.png" beforeDir="false" afterPath="$PROJECT_DIR$/3N_forces_noise_data.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KPIEKORZ_ml2_tets.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KPIEKORZ_ml2_tets.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KPiekorz(2).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KPiekorz(2).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KPiekorz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/KPiekorz.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OPTICS.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/OPTICS.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Copy2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KPiekorz(2).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KPiekorz.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TAURON - BSA - aktualny.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TAURON - BSA - aktualny.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
