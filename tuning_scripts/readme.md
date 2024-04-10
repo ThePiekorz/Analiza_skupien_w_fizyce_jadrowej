@@ -8,5 +8,5 @@ nera GridSearchCV/HalvingGridSearch oraz ponowna analiza wykresów z użyciem na
 parametrów wskazanych przez tuner.
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/ThePiekorz/Analiza_skupien_w_fizyce_jadrowej/blob/main/Dane_podstawowe_plot/c12_data.png"> 
+    <img width="50%" src="https://github.com/ThePiekorz/Analiza_skupien_w_fizyce_jadrowej/blob/main/tuning_scripts/tune_preview.png"> 
 </p>
