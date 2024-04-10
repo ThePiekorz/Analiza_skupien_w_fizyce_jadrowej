@@ -13,5 +13,20 @@ poszczególne izotopy tworzą różnego rodzaje skupienia.
     <img width="50%" src="https://github.com/ThePiekorz/Analiza_skupien_w_fizyce_jadrowej/blob/main/Dane_podstawowe_plot/c12_data.png"> 
 </p>
 
-Do odróżnienia skupień użyto nienadzorowanych metod uczenia maszynowego takich jak DBSCAN, OPTICS, MeanShift czy afCEC. Duża część z nich jest
-zaimplementowana w bibliotece SciKitLearn.
+Głównym celem pracy było znalezienie optymalnych algorytmów klasteryzacji dla poszczególnych zestawów danych, który został osiągnięty poprzez analizę dostępnych rozwiązań. W ramach pracy skupiono się na wytrenowaniu modeli z użyciem różnych hiperparametrów oraz analizie wykresów (sprawdź tune_hyperparameters). Przeprowadzone analizy pokazały skuteczność zaproponowanych rozwiązań oraz ich przydatność w praktyce.
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/ThePiekorz/Analiza_skupien_w_fizyce_jadrowej/blob/main/Python_DBSCAN/Data_2.png"> 
+</p>
+
+Po przeanalizowaniu wszystkich wyników najlepszym algorytmem okazał
+się algorytm DBSCAN. Charakteryzował się on stosunkowo krótkim czasem
+wykonywania obliczeń co pozwoliło na lepsze dostrojenie hiperparametrów.
+Wyniki na wykresach były zbliżone wynikom oczekiwanym przez zespół fi-
+zyków. Na wyróżnienie zasługuje również algorytm afCEC.
+
+
+
+
+
+
