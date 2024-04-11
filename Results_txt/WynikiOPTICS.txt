@@ -1,0 +1,61 @@
+Min_samples = 600
+Max_epx = 36
+Estimated number of clusters: 3
+Estimated number of noise points: 1817
+Max_eps: 36, min_samples: 600
+Nieźle
+
+Min_samples = 600
+Max_epx = 34
+Estimated number of clusters: 4
+Estimated number of noise points: 43035
+Max_eps: 34, min_samples: 600
+są 4 klastry
+
+Min_samples = 700
+Max_epx = 33
+Estimated number of clusters: 2
+Estimated number of noise points: 3147
+Max_eps: 33, min_samples: 700
+niby 2 ale ładne
+
+Min_samples = 700
+Max_epx = 34
+Estimated number of clusters: 3
+Estimated number of noise points: 2357
+Max_eps: 34, min_samples: 700
+
+Min_samples = 680
+Max_epx = 34
+Estimated number of clusters: 3
+Estimated number of noise points: 2209
+Max_eps: 34, min_samples: 680
+
+Min_samples = 650
+Max_epx = 34
+Estimated number of clusters: 3
+Estimated number of noise points: 2037
+Max_eps: 34, min_samples: 650
+
+Min_samples = 650
+Max_epx = 35
+Estimated number of clusters: 3
+Estimated number of noise points: 1915
+Max_eps: 35, min_samples: 650
+
+Min_samples = 625
+Max_epx = 34
+Estimated number of clusters: 3
+Estimated number of noise points: 1931
+Max_eps: 34, min_samples: 625
+
+-------------------------------------------
+Min_samples = 650
+Max_epx = 37
+Estimated number of clusters: 3
+Estimated number of noise points: 1817
+Max_eps: 37, min_samples: 650
+Minkowski, Data_1
+
+chebyshe<-- sprawdzić
+correlation
