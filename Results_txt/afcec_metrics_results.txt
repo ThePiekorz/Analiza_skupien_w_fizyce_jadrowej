@@ -1,0 +1,7 @@
+Silhouette Score4: 0.042086845174620455
+Davies-Bouldin Index4: 2.426803399234263
+Calinski-Harabasz Index4 314986.4269525658
+Silhouette Score3: 0.06515724828995609
+Davies-Bouldin Index3: 1.7486005167621768
+Calinski-Harabasz Index3 494379.1429526992
+DBSCAN execution time: 27706.759261608124 seconds
