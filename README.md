@@ -12,7 +12,7 @@ Wyniki na wykresach były zbliżone wynikom oczekiwanym przez zespół fi-
 zyków. Na wyróżnienie zasługuje również algorytm afCEC.
 
 ## Dane
-Bardzo często identyfikację produktów reakcji jądrowych przeprowadza się
+Dane pochodzić będą z kilku eksperymentów fizyki jądrowej i cząstek. Bardzo często identyfikację produktów reakcji jądrowych przeprowadza się
 mając do dyspozycji sygnały z dwóch detektorów, ułożonych w stos, dzia-
 łających w koincydencji. Efektem tego jest dwuwymiarowy plot, na którym
 poszczególne izotopy tworzą różnego rodzaje skupienia.
