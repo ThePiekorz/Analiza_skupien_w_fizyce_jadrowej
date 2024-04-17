@@ -18,13 +18,13 @@ mając do dyspozycji sygnały z dwóch detektorów, ułożonych w stos, dzia-
 poszczególne izotopy tworzą różnego rodzaje skupienia.
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/ThePiekorz/Analiza_skupien_w_fizyce_jadrowej/blob/main/Dane_podstawowe_plot/c12_data.png"> 
+    <img width="50%" src="https://github.com/ThePiekorz/Analiza_skupien_w_fizyce_jadrowej/blob/main/Plots/c12_data.png"> 
 </p>
 
 Głównym celem pracy było znalezienie optymalnych algorytmów klasteryzacji dla poszczególnych zestawów danych, który został osiągnięty poprzez analizę dostępnych rozwiązań. W ramach pracy skupiono się na wytrenowaniu modeli z użyciem różnych hiperparametrów oraz analizie wykresów (sprawdź tune_hyperparameters). Przeprowadzone analizy pokazały skuteczność zaproponowanych rozwiązań oraz ich przydatność w praktyce.
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/ThePiekorz/Analiza_skupien_w_fizyce_jadrowej/blob/main/Python_Kmeans/Kmeans_1.png"> 
+    <img width="50%" src="https://github.com/ThePiekorz/Analiza_skupien_w_fizyce_jadrowej/blob/main/Plots/Python_Kmeans/Kmeans_1.png"> 
 </p>
 
 ## TUNER czyli dostrajanie hiperparametrów
